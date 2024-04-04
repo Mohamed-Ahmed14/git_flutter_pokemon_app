@@ -5,5 +5,4 @@ Build using: Flutter framework, API, Dio, State management Cubit, Postman.
 
 ## Getting Started
 
-![p2](https://github.com/Mohamed-Ahmed14/git_flutter_pokemon_app/assets/152717421/31097353-f78f-4352-a900-0a8251a2fe6a)
 
