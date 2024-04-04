@@ -1,16 +1,9 @@
 # pokemon_app
 
-A new Flutter project.
+Pokemon Application that displays a wide range of cards each card related to one pokemon and you can show its detail by just click on its own card.
+Build using: Flutter framework, API, Dio, State management Cubit, Postman.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+![p2](https://github.com/Mohamed-Ahmed14/git_flutter_pokemon_app/assets/152717421/31097353-f78f-4352-a900-0a8251a2fe6a)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
